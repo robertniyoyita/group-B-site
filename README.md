@@ -12,7 +12,7 @@ To showcase the final project of Group B, including web development skills and c
 design.
 Target Audience:
 -Instructors,
--classmates, and
+-classmates,and
 - potential recruiters.
 Main Features:
 - Homepage with navigation
